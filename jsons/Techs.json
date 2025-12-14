@@ -72,6 +72,12 @@
 				"prerequisites": ["Animal Husbandry","Pottery"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
+			{
+				"name": "Masonry & Carpentry",
+				"row": 9,
+				"prerequisites": ["Mining"],
+				"quote": "'How happy are those whose walls already rise!' - Virgil"
+			},
 		]
 	}
 ]
