@@ -16,4 +16,19 @@
         "citySound": "cityAncient",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "Ancient era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "settlerBuildings": ["Shrine","Campfire"],
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityClassical",
+        "iconRGB": [255, 87, 35]
+    },
 ]
