@@ -19,7 +19,7 @@
 		"improvement": "Pasture",
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-    "Generated on every [22] tiles <in [{Featureless} {Plains}] tiles>"]
+                    "Generated on every [22] tiles <in [{Featureless} {Plains}] tiles>"]
 	},
 // Strategic resources
 	{
@@ -53,3 +53,4 @@
 					"Generated with weight [15] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
 	},
+]
