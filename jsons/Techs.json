@@ -100,6 +100,12 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Mounted Warfare",
+				"row": 5,
+				"prerequisites": ["Masonry & Carpentry","The Wheel"],
+				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+			},
+			{
 				"name": "Standing Army",
 				"row": 7,
 				"prerequisites": ["Masonry & Carpentry","The Wheel"],
