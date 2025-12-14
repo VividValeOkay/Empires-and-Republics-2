@@ -55,6 +55,12 @@
 		"wonderCost": 185,
 		"techs": [
 			{
+				"name": "Writing",
+				"row": 3,
+				"prerequisites": ["Pottery"],
+				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
+			},
+			{
 				"name": "Grain Storage",
 				"row": 5,
 				"prerequisites": ["Pottery"],
@@ -66,4 +72,6 @@
 				"prerequisites": ["Animal Husbandry","Pottery"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
+		]
+	}
 ]
