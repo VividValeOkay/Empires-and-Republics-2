@@ -22,6 +22,12 @@
 		"wonderCost": 185,
 		"techs": [
 			{
+				"name": "Fishing",
+				"row": 1,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			}
+			{
 				"name": "Pottery",
 				"row": 2,
 				"prerequisites": ["Agriculture"],
