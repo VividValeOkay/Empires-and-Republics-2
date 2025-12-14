@@ -47,4 +47,23 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 2,
+		"era": "Neolithic era",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Grain Storage",
+				"row": 5,
+				"prerequisites": ["Pottery"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+			{
+				"name": "The Wheel",
+				"row": 7,
+				"prerequisites": ["Animal Husbandry","Pottery"],
+				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
+			},
 ]
