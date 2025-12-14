@@ -6,7 +6,7 @@
 		"startBias": ["Coast"],
 
 		"declaringWar": "As our protests are in vain, we hereby declare war.",
-		"attacked": "War? We are not amused.",
+		"attacked": "War? We are not amused...",
 		"defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
         "denounced": "The Queen wishes to warn those who disrespect her people and her mandate of the manifold troubles that will ensue."
 		"introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
@@ -29,8 +29,8 @@
 
 		"declaringWar": "The die is cast.",
 		"attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
-		"defeated": "Tu quoque? Then fall Caesar.",
-        "denounced": "You had better mean what you say. I, for one, do not make idle threats."
+		"defeated": "Tu quoque? Then fall Caesar!",
+        "denounced": "You had better mean what you say. I, for one, do not make idle threats..!"
 		"introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
 
 		"neutralHello": "Hail.",
@@ -49,7 +49,7 @@
 		"leaderName": "Yongle",
 		"startBias": ["Grassland"],
 
-		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
+		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way..!",
 		"attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
 		"defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
         "denounced": "The barking of dogs."
