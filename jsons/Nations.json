@@ -20,6 +20,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [212, 6, 6],
 		"uniqueName": "Sun Never Sets",
+	    "uniques": ["[+1 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>","[+25]% Strength <for [Water] units>"]
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester"],
 },
 {
@@ -42,6 +43,7 @@
 		"outerColor": [70, 0, 118],
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Veni, Vidi, Vici",
+	    "uniques": ["[+25]% Production towards any buildings that already exist in the Capital","[+20]% Strength <vs cities>","[+2 Science] [in capital] <when at war>"]
 		"cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia","Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra"],
 },
 {
@@ -63,7 +65,8 @@
 
 		"outerColor": [9, 112, 84],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Silk Road",
+		"uniqueName": "Lijia",
+	    "uniques": ["Enables conversion of city production to [Gold]","[+10]% [Gold] [in all cities]","[Great General] is earned [50]% faster"]
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 },
 {
@@ -86,6 +89,30 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [146, 221, 10],
 		"uniqueName": "Righteousness of the Faith",
+	    "uniques": ["[+2 Gold] from each Trade Route","[+50]% [Faith] from every [Faith]","Empire enters a [10]-turn Golden Age <upon founding a Religion>"]
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat","Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"],
+},
+{
+		"name": "The Greeks",
+		"leaderName": "Pericles",
+		"startBias": ["Coast"],
+
+		"declaringWar": "This is for the greater good. You will understand... in time.",
+		"attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
+		"defeated": "You may have defeated us, but what we leave behind is woven into the lives of others.",
+        "denounced": "All leaders incur hatred and unpopularity; if one has a great aim to pursue, this burden of envy must be accepted."
+		"introduction": "Hello, I am Pericles of Athens and I greet you on behalf of the Democracy. I trust you'll let me conduct my business with these neutral parties?",
+
+		"neutralHello": "Greetings...",
+		"hateHello": "What?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+		"declaringFriendship": "Let's put our differences aside for a moment, shall we? Friendship is more important than petty politics.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		"uniqueName": "Hellenic League",
+	    "uniques": ["Gifts of Gold to City-States generate [+30]% more Influence","[+1 Science] per [3] population [in all cities]"]
+		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes","Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios"],
 },
 ]
