@@ -34,4 +34,25 @@
 		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	},
+	{
+		"name": "Spearman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 50,
+		"requiredTech": "Standing Army",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 70,
+		"requiredTech": "Standing Army",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
 ]
