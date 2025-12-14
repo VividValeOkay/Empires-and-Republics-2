@@ -78,6 +78,15 @@
 					"Generated on every [20] tiles <in [{Featureless} {Plains}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles>"],
 	},
+    {
+        "name": "Bison",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains"],
+		"food": 1,
+		"improvementStats": {"production": 1},
+		"improvement": "Camp",
+		"unique": ["Generated on every [18] tiles <in [{Featureless} {Plains}] tiles>"]
+	}
 // Strategic resources
 	{
 		"name": "Horses",
@@ -142,5 +151,13 @@
 		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Grassland}] tiles>",
 			        "Generated on every [16] tiles <in [{Featureless} {Plains}] tiles>"],
 	},
-    
+    {
+        "name": "Camel",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Desert","Flood plains","Hill"],
+		"production": 1,
+		"improvementStats": {"gold": 2},
+		"improvement": "Camp",
+		"unique": ["Generated on every [18] tiles <in [Desert] tiles>"]
+	}
 ]
