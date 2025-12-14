@@ -25,4 +25,13 @@
 		"cost": 40,
 		"attackSound": "nonmetalhit",
 	},
+	{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Fishing",
+		"uniques": ["Cannot enter ocean tiles", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+	},
 ]
