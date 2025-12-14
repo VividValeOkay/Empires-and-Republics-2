@@ -142,7 +142,7 @@
 {
 		"name": "Belgium",
 		"adjective": ["Belgian"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Culture",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -154,7 +154,7 @@
 {
 		"name": "Vietnam",
 		"adjective": ["Vietnamese"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Military",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -166,7 +166,7 @@
 {
 		"name": "Kongo",
 		"adjective": ["Kongolese"],
-		"cityStateType": "Mercantile",
+		"cityStateType": "Gold",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -178,7 +178,7 @@
 {
 		"name": "Ghana",
 		"adjective": ["Ghanaian"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Culture",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -190,7 +190,7 @@
 {
 		"name": "Ireland",
 		"adjective": ["Irish"],
-		"cityStateType": "Maritime",
+		"cityStateType": "Food",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
