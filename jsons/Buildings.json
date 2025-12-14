@@ -42,4 +42,10 @@
     "requiredTech": "Grain Storage",
     "requiredResource": "Grapes",
   },
+  {
+	"name": "Library",
+	"cost": 70,
+	"uniques": ["[+1 Science] per [2] population [in this city]"],
+	"requiredTech": "Writing"
+  },
 ]
