@@ -19,7 +19,7 @@
 		"era": "Neolithic era",
 		"techCost": 20,
 		"buildingCost": 40,
-		"wonderCost": 185,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Fishing",
@@ -52,7 +52,7 @@
 		"era": "Neolithic era",
 		"techCost": 20,
 		"buildingCost": 40,
-		"wonderCost": 185,
+		"wonderCost": 100,
 		"techs": [
 			{
 				"name": "Calendar",
@@ -85,5 +85,18 @@
 				"quote": "'How happy are those whose walls already rise!' - Virgil"
 			},
 		]
-	}
+	},
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 40,
+		"buildingCost": 80,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Standing Army",
+				"row": 7,
+				"prerequisites": ["Masonry & Carpentry","The Wheel"],
+				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
+			},
 ]
