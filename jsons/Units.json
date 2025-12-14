@@ -82,7 +82,8 @@
 		"movement": 3,
 		"strength": 13,
 		"cost": 90,
-		"requiredTech": "The Wheel",
+		"requiredTech": "Mounted Warfare",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 			
 ]
