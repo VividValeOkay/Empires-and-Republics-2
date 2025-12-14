@@ -135,7 +135,7 @@
 		"outerColor": [0, 192, 155],
 		"innerColor": [55, 0, 101],
 		"uniqueName": "Arthashastra",
-	    "uniques": ["[+100]% unhappiness from the number of cities","[-50]% Unhappiness from [Population] [in all cities]","[+20]% [Happiness] <in cities with a [your] religion>"]
+	    "uniques": ["[+50]% unhappiness from the number of cities","[-70]% Unhappiness from [Population] [in all cities]","[+20]% [Happiness] <in cities with a [your] religion>"]
 		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
 },
 	// City-States
