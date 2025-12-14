@@ -35,4 +35,11 @@
 	"food": 2,
 	"requiredTech": "Grain Storage"
   },
+  {
+    "name": "Fermenting Pit",
+    "cost": 40,
+    "happiness": 2,
+    "requiredTech": "Grain Storage",
+    "requiredResource": "Grapes",
+  },
 ]
