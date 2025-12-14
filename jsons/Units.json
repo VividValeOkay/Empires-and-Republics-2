@@ -83,6 +83,7 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Mounted Warfare",
+		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 			
