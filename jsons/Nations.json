@@ -21,5 +21,27 @@
 		"innerColor": [212, 6, 6],
 		"uniqueName": "Sun Never Sets",
 		"cities": ["London"],
-	},
+},
+{
+		"name": "The Romans",
+		"leaderName": "Julius Caesar",
+		"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
+
+		"declaringWar": "The die is cast.",
+		"attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
+		"defeated": "Tu quoque? Then fall Caesar.",
+        "denounced": "You had better mean what you say. I, for one, do not make idle threats."
+		"introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
+
+		"neutralHello": "I bid you welcome...",
+		"hateHello": "What is it!?",
+
+		"tradeRequest": "I offer this, for your consideration.",
+		"declaringFriendship": "Rome is not without its graces. Come into friendship with us.",
+
+		"outerColor": [70, 0, 118],
+		"innerColor": [240, 199, 0],
+		"uniqueName": "Veni, Vidi, Vici",
+		"cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia","Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra"],
+},
 ]
