@@ -20,7 +20,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [212, 6, 6],
 		"uniqueName": "Sun Never Sets",
-		"cities": ["London"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester"],
 },
 {
 		"name": "The Romans",
@@ -43,5 +43,27 @@
 		"innerColor": [240, 199, 0],
 		"uniqueName": "Veni, Vidi, Vici",
 		"cities": ["Roma","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia","Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra"],
+},
+{
+		"name": "The Chinese",
+		"leaderName": "Yongle",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
+		"attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
+		"defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
+        "denounced": "The barking of dogs."
+		"introduction": "I'm the Yongle Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
+
+		"neutralHello": "How are you today?",
+		"hateHello": "Oh. It's you?",
+
+		"tradeRequest": "My friend, do you think you can accept this request?",
+		"declaringFriendship": "We are building a coalition of like-minded people. Shall you take part?",
+
+		"outerColor": [9, 112, 84],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Lijia",
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 },
 ]
