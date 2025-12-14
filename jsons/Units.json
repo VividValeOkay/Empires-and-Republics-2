@@ -24,7 +24,5 @@
 		"strength": 10,
 		"cost": 40,
 		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
 	},
+]
