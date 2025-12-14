@@ -63,7 +63,7 @@
 			{
 				"name": "Calendar",
 				"row": 2,
-				"prerequisites": ["Pottery"],
+				"prerequisites": ["Pottery","Fishing"],
 				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
 			},
 			{
@@ -81,7 +81,7 @@
 			{
 				"name": "The Wheel",
 				"row": 7,
-				"prerequisites": ["Animal Husbandry","Pottery"],
+				"prerequisites": ["Animal Husbandry","Pottery","Archery"],
 				"quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese proverb"
 			},
 			{
