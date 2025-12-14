@@ -76,6 +76,14 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 	},
+	{
+		"name": "Horseman",
+		"unitType": "Archery",
+		"movement": 3,
+		"strength": 13,
+		"cost": 90,
+		"requiredTech": "The Wheel",
+	},
 		
 		
 ]
