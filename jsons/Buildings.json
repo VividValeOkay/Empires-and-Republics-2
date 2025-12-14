@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Well",
+    "cost": 50,
+    "food": 2,
+    "requiredTech": "WIP",
+    "uniques": ["[+1 Food] <in [Farm] tiles> <in [in this city] cities>"],
+  },
+]
