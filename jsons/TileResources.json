@@ -77,4 +77,13 @@
 					"Generated with weight [15] <in [Hybrid] Regions>",
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
 	},
+	{
+		"name": "Grapes",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"food": 1,
+		"improvement": "Plantation",
+		"uniques": ["Generated on every [10] tiles <in [{Featureless} {Grassland}] tiles>",
+			        "Generated on every [16] tiles <in [{Featureless} {Plains}] tiles>"],
+	},
 ]
