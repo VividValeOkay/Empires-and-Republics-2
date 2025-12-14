@@ -30,5 +30,36 @@
             }
     ]
   },
+  {
+    "name": "Autocracy",
+    "era": "Ancient era",
+    "uniques": ["[+15]% Strength <for [Melee] units>","Unavailable <starting from the [Ancient era]>","Get the leader title of [Autocrat [leaderName]]"]
+    "policies": [
+      {
+       "name": "Discipline",
+       "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
+       "row": 1,
+       "column": 1,
+      },
+      {
+       "name": "Oligarchic Legacy",
+       "uniques": ["[+2 Culture] [in capital]"],
+       "row": 1,
+       "column": 3,
+      },
+      {
+       "name": "Civil Prestige",
+       "uniques": ["[+1 Happiness] [in all cities] <when at war>"],
+       "row": 1,
+       "column": 5,
+      },
+            {
+                "name": "Autocracy Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                ]
+            }
+    ]
+  },
 
 ]
