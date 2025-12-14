@@ -6,4 +6,16 @@
     "requiredTech": "Pottery",
     "uniques": ["[+1 Food] <in [Farm] tiles> <in [in this city] cities>"],
   },
+  {
+    "name": "Campfire",
+    "cost": 20,
+    "culture": 1,
+    "happiness": 1,
+  },
+  {
+    "name": "Furnace",
+    "cost": 60,
+    "production": 2,
+    "requiredTech": "Pottery", // Bronze workd=ing later
+  },
 ]
