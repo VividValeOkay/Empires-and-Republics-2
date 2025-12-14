@@ -55,6 +55,12 @@
 		"wonderCost": 185,
 		"techs": [
 			{
+				"name": "Calendar",
+				"row": 2,
+				"prerequisites": ["Pottery"],
+				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
+			},
+			{
 				"name": "Writing",
 				"row": 3,
 				"prerequisites": ["Pottery"],
