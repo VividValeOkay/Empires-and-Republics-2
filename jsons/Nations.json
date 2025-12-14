@@ -138,4 +138,65 @@
 	    "uniques": ["[+100]% unhappiness from the number of cities","[-50]% Unhappiness from [Population] [in all cities]","[+20]% [Happiness] <in cities with a [your] religion>"]
 		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
 },
+	// City-States
+{
+		"name": "Belgium",
+		"adjective": ["Belgian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "I guess you weren't here for the sprouts after all...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [127, 177, 236],
+		"cities": ["Brussels"]
+},
+{
+		"name": "Vietnam",
+		"adjective": ["Vietnamese"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [192, 150, 227],
+		"cities": ["Hanoi"]
+},
+{
+		"name": "Kongo",
+		"adjective": ["Kongolese"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [87, 56, 14],
+		"cities": ["Mbanza Kongo"]
+},
+{
+		"name": "Ghana",
+		"adjective": ["Ghanaian"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [194, 194, 19],
+		"cities": ["Accra"]
+},
+{
+		"name": "Ireland",
+		"adjective": ["Irish"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55, 173, 85],
+		"cities": ["Dublin"]
+},
 ]
