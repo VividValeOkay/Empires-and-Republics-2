@@ -1,1 +1,14 @@
+[
+  {
+    "name": "Cheifdom",
+    "era": "Neolithic era",
+    "uniques": ["[+1 Happiness]"]
+    "policies": [
+       "name": "Tradition",
+       "uniques": ["[+3 Culture] [in capital]"],
+       "row": 1,
+       "column": 1,
+    ]
+  }
 
+]
