@@ -11,6 +11,13 @@
 		"uniques": ["Indicates the capital city"]
 	},
   {
+		"name": "Shrine",
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+  },
+  {
     "name": "Well",
     "cost": 50,
     "food": 2,
