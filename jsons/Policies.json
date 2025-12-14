@@ -2,7 +2,7 @@
   {
     "name": "Cheifdom",
     "era": "Neolithic era",
-    "uniques": ["[+1 Happiness]","Get the leader title of [Chief [leaderName]]"]
+    "uniques": ["[+1 Happiness]","Unavailable <starting from the [Ancient era]>","Get the leader title of [Chief [leaderName]]"]
     "policies": [
       {
        "name": "Tradition",
