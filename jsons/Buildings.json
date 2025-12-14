@@ -15,7 +15,7 @@
     "cost": 50,
     "food": 2,
     "requiredTech": "Pottery",
-    "uniques": ["[+1 Food] <in [Farm] tiles> <in [in this city] cities>"],
+    "uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
   },
   {
     "name": "Campfire",
@@ -28,5 +28,11 @@
     "cost": 60,
     "production": 2,
     "requiredTech": "Pottery", // Bronze workd=ing later
+  },
+  {
+	"name": "Granary",
+	"cost": 70
+	"food": 2,
+	"requiredTech": "Grain Storage"
   },
 ]
