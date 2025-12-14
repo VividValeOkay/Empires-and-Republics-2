@@ -2,7 +2,7 @@
   {
     "name": "Cheifdom",
     "era": "Neolithic era",
-    "uniques": ["[+1 Happiness]"]
+    "uniques": ["[+1 Happiness]","Get the leader title of [Chief [leaderName]]"]
     "policies": [
       {
        "name": "Tradition",
@@ -22,6 +22,12 @@
        "row": 1,
        "column": 5,
       },
+            {
+                "name": "Cheifdom Complete",
+                "uniques": [
+                    "[+15]% growth [in all cities]",
+                ]
+            }
     ]
   },
 
