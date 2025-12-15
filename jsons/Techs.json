@@ -100,9 +100,15 @@
 		"wonderCost": 100,
 		"techs": [
 			{
+				"name": "Sailing",
+				"row": 1,
+				"prerequisites": ["Calendar"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+			},
+			{
 				"name": "Mounted Warfare",
 				"row": 5,
-				"prerequisites": ["Masonry & Carpentry","The Wheel"],
+				"prerequisites": ["The Wheel"],
 				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
 			},
 			{
@@ -110,6 +116,12 @@
 				"row": 7,
 				"prerequisites": ["Masonry & Carpentry","The Wheel"],
 				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
+			},
+			{
+				"name": "Craftsmanship",
+				"row": 9,
+				"prerequisites": ["Masonry & Carpentry"],
+				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			},
 		]
 	}
