@@ -33,7 +33,7 @@
   {
     "name": "Autocracy",
     "era": "Ancient era",
-    "uniques": ["[+15]% Strength <for [Melee] units>","Get the leader title of [Autocrat [leaderName]]"]
+    "uniques": ["[+15]% Strength <for [Melee] units>","Get the leader title of [Autocrat [leaderName]]","Remove [Cheifdom]"]
     "policies": [
       {
        "name": "Discipline",
