@@ -86,5 +86,15 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
+	{
+		"name": "Trireme",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 12,
+		"cost": 90,
+		"requiredTech": "Sailing",
+		"uniques": ["Can only be built <in cities with a [Docks]>","Cannot enter ocean tiles"],
+		"attackSound": "nonmetalhit"
+	},
 			
 ]
