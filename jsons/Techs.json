@@ -155,5 +155,8 @@
 				"row": 1,
 				"prerequisites": ["Sailing"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"uniques": ["Enables embarkation for land units"],
 			},
+		]
+	}
 ]
