@@ -106,6 +106,12 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles"
 			},
 			{
+				"name": "Philosophy",
+				"row": 3,
+				"prerequisites": ["Writing"],
+				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+			},
+			{
 				"name": "Mounted Warfare",
 				"row": 5,
 				"prerequisites": ["The Wheel"],
