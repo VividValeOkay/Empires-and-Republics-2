@@ -136,5 +136,24 @@
 				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
 			},
 		]
-	}
+	},
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 80,
+		"buildingCost": 80,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Siege Craft",
+				"row": 7,
+				"prerequisites": ["Standing Army","Mounted Warfare","Craftsmanship"],
+				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
+			},
+			{
+				"name": "Navigation",
+				"row": 1,
+				"prerequisites": ["Sailing"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+			},
 ]
