@@ -112,6 +112,12 @@
 				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
 			},
 			{
+				"name": "Trading",
+				"row": 4,
+				"prerequisites": ["Grain Storage","Writing"],
+				"quote": "Textbook."
+			},
+			{
 				"name": "Mounted Warfare",
 				"row": 5,
 				"prerequisites": ["The Wheel"],
