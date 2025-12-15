@@ -68,4 +68,11 @@
     "requiredTech": "Craftsmanship",
     "uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
   },
+  {
+    "name": "Docks",
+    "cost": 120,
+    "gold": 2,
+    "requiredTech": "Sailing",
+    "uniques": ["Can only be built <in [Coastal] tiles>"],
+  },
 ]
