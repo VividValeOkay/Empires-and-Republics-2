@@ -97,4 +97,18 @@
     "requiredTech": "Trading",
 	"uniques": ["[+2 Gold] <if [Docks] is constructed>"],
   },
+  {
+    "name": "Mill",
+    "cost": 90,
+    "production": 1,
+	"food": 1,
+    "requiredTech": "Milling",
+  },
+  {
+    "name": "Bakery",
+    "cost": 80,
+	"production": 1,
+	"food": 1,
+    "requiredTech": "Milling",
+  },
 ]
