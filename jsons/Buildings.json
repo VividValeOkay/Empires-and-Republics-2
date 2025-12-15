@@ -83,4 +83,11 @@
     "science": 2,
     "requiredTech": "Philosophy",
   },
+  {
+	"name": "Temple",
+	"faith": 2,
+	"cost": 120,
+	"requiredTech": "Philosophy",
+	"uniques": ["Only available <when religion is enabled>"]
+  },
 ]
