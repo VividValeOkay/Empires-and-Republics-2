@@ -245,4 +245,52 @@
 		"innerColor": [55, 173, 85],
 		"cities": ["Dublin"]
 },
+{
+		"name": "Argentina",
+		"adjective": ["Argentine"],
+		"cityStateType": "Production",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [22, 206, 242],
+		"cities": ["Buenos Aires"]
+},
+{
+		"name": "Judah",
+		"adjective": ["Judahite"],
+		"cityStateType": "Religion",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 255, 255],
+		"cities": ["Jerusalem"]
+},
+{
+		"name": "Ayutthaya",
+		"adjective": ["Krung Tai"],
+		"cityStateType": "Culture",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [135, 44, 28],
+		"cities": ["Ayutthaya"]
+},
+{
+		"name": "Portugal",
+		"adjective": ["Portuguese"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [19, 89, 21],
+		"cities": ["Lisbon"]
+},
 ]
