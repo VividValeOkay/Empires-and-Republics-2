@@ -52,7 +52,9 @@
   {
 	"name": "Library",
 	"cost": 70,
-	"uniques": ["[+1 Science] per [2] population [in this city]"],
+	"science": 1,
+	"happiness": 1,
+	"uniques": ["[+1 Science] per [4] population [in this city]"],
 	"requiredTech": "Writing"
   },
   {
