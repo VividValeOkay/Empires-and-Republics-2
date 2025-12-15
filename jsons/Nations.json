@@ -54,7 +54,7 @@
 		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way..!",
 		"attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
 		"defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
-        "denounced": "The barking of dogs."
+        "denounced": "The barking of dogs..."
 		"introduction": "I'm the Yongle Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
 
 		"neutralHello": "How are you today?",
@@ -137,6 +137,52 @@
 		"uniqueName": "Arthashastra",
 	    "uniques": ["[+50]% unhappiness from the number of cities","[-70]% Unhappiness from [Population] [in all cities]","[+20]% [Happiness] <in cities with a [your] religion>"]
 		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
+},
+{
+		"name": "The Americans",
+		"leaderName": "George Washington",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "I wanted to avoid this, you know... But your idea of peace left me no choice!",
+		"attacked": "If I must choose between righteousness and peace, I choose righteousness.",
+		"defeated": "Congratulations. Instead of the United States of America, your nation will go far...",
+        "denounced": "How dare you!"
+		"introduction": "Welcome to the United States of America! If you conduct yourself well, you can consider us friends.",
+
+		"neutralHello": "Good day.",
+		"hateHello": "Well?",
+
+		"tradeRequest": "Is the following trade of interest to you?",
+		"declaringFriendship": "You have earned my respect. Shall we declare our friendship?",
+
+		"outerColor": [19, 14, 161],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Founding Fathers",
+	    "uniques": ["[-15]% Culture cost of adopting new Policies","[+25]% Strength <when fighting in [your] tiles>","[-20]% unhappiness from the number of cities"]
+		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston","Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis"],
+},
+{
+		"name": "The Germans",
+		"leaderName": "Frederick Barbarossa",
+		"startBias": ["Avoid [Desert]"],
+
+		"declaringWar": "You were well warned, but still you seek conflict. Now you will learn your lesson, as many other men have before you!",
+		"attacked": "How do you want to defeat me, when I destroyed so many enemies?",
+		"defeated": "I maintained piety and blessedness... but never mind that. You have achieved victory... May your empire be free of hate, and of fighting.",
+        "denounced": "I should answer you with my sword... perhaps I will..."
+		"introduction": "God greets you, traveller. I am Emperor Frederick and rule over German and Welsh lands, over Burgundy and many more. I know surely that you, too, can embrace righteous force.",
+
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"declaringFriendship": "Again we extend our hand, but this time in friendship. Will you accept it?",
+
+		"outerColor": [179, 178, 184],
+		"innerColor": [37, 43, 33],
+		"uniqueName": "Free Imperial Cities",
+	    "uniques": ["[+2 Production] per [3] population [in all cities]","[+1 Production] from all [Production] buildings"]
+		"cities": ["Aachen","Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen","Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen"],
 },
 	// City-States
 {
