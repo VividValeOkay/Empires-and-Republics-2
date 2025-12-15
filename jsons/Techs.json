@@ -157,6 +157,12 @@
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 				"uniques": ["Enables embarkation for land units"],
 			},
+			{
+				"name": "Milling",
+				"row": 9,
+				"prerequisites": ["Craftsmanship","Trading"],
+				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+			},
 		]
 	}
 ]
