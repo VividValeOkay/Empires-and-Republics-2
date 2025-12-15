@@ -77,4 +77,10 @@
     "requiredTech": "Sailing",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
+  {
+    "name": "School",
+    "cost": 100,
+    "science": 2,
+    "requiredTech": "Philosophy",
+  },
 ]
