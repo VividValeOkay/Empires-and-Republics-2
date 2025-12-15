@@ -90,4 +90,11 @@
 	"requiredTech": "Philosophy",
 	"uniques": ["Only available <when religion is enabled>"]
   },
+  {
+    "name": "Market",
+    "cost": 100,
+    "gold": 2,
+    "requiredTech": "Trading",
+	"uniques": ["[+2 Gold] <if [Docks] is constructed>"],
+  },
 ]
