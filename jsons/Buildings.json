@@ -132,4 +132,10 @@
     "requiredTech": "Engineering",
 	"uniques": ["Destroyed when the city is captured"],
   },
+  {
+    "name": "Mint",
+    "cost": 85,
+    "gold": 2,
+    "requiredTech": "Currency",
+  },
 ]
