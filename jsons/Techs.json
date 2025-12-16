@@ -190,5 +190,44 @@
 				"quote": "'Normal people, believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.' - Scott Adams"
 			},
 		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "High Middle Ages",
+		"techCost": 120,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Theology",
+				"row": 2,
+				"prerequisites": ["Navigation","Mathematics"],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+			},
+			{
+				"name": "Guilds",
+				"row": 4,
+				"prerequisites": ["Currency"],
+				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Brewing & Alchemy",
+				"row": 6,
+				"prerequisites": ["Milling"],
+				"quote": "'We are all apprentices in a craft where no one ever becomes a master.' - Ernest Hemingway"
+			},
+			{
+				"name": "Military Tactics",
+				"row": 7,
+				"prerequisites": ["Siege Craft"],
+				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
+			},
+			{
+				"name": "War Summons",
+				"row": 8,
+				"prerequisites": ["Siege Craft"],
+				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
+			},
+		]
 	}
 ]
