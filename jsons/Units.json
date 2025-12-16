@@ -77,6 +77,8 @@
 		"range": 2,
 		"cost": 40,
 		"requiredTech": "Archery",
+		"obsoleteTech": "War Summons",
+		"upgradesTo": "Longbowman",
 	},
 	{
 		"name": "Horseman",
@@ -129,6 +131,16 @@
 		"cost": 90,
 		"requiredTech": "Military Tactics",
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Longbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 10,
+		"rangedStrength": 14,
+		"range": 2,
+		"cost": 80,
+		"requiredTech": "War Summons",
 	},
 			
 ]
