@@ -71,6 +71,7 @@
 				"row": 3,
 				"prerequisites": ["Pottery"],
 				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
+				"uniques": ["Enables Open Borders agreements"]
 			},
 			{
 				"name": "Grain Storage",
@@ -209,6 +210,7 @@
 				"row": 4,
 				"prerequisites": ["Currency"],
 				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+				"uniques": ["Enables conversion of city production to [Gold]"]
 			},
 			{
 				"name": "Brewing & Alchemy",
@@ -221,6 +223,7 @@
 				"row": 7,
 				"prerequisites": ["Siege Craft"],
 				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
+				"uniques": ["Enables Defensive Pacts"]
 			},
 			{
 				"name": "War Summons",
