@@ -33,7 +33,7 @@
   {
     "name": "Autocracy",
     "era": "Ancient era",
-    "uniques": ["[+15]% Strength <for [Melee] units>","Get the leader title of [Autocrat [leaderName]]","Remove [Cheifdom]"]
+    "uniques": ["[+15]% Strength <for [Melee] units>","Get the leader title of [Autocrat [leaderName]]","Only available <before adopting [Classical Republic]>"]
     "policies": [
       {
        "name": "Discipline",
@@ -42,7 +42,7 @@
        "column": 1,
       },
       {
-       "name": "Oligarchic Legacy",
+       "name": "Autocratic Legacy",
        "uniques": ["[+2 Culture] [in capital]"],
        "row": 1,
        "column": 3,
@@ -57,6 +57,37 @@
                 "name": "Autocracy Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
+                ]
+            }
+    ]
+  },
+  {
+    "name": "Classical Republic",
+    "era": "Ancient era",
+    "uniques": ["[+1 Culture] per [4] population [in all cities]","Get the leader title of [Consul [leaderName]]","Only available <before adopting [Autocracy]>"]
+    "policies": [
+      {
+       "name": "Citizenship",
+       "uniques": ["Can build [all] improvements at a [+20]% rate"],
+       "row": 1,
+       "column": 1,
+      },
+      {
+       "name": "Collective Rule",
+       "uniques": ["[+30]% Production when constructing [Settler] units [in capital]"],
+       "row": 1,
+       "column": 3,
+      },
+      {
+       "name": "Representation",
+       "uniques": ["Each city founded increases culture cost of policies [22]% less than normal"],
+       "row": 1,
+       "column": 5,
+      },
+            {
+                "name": "Classical Republic Complete",
+                "uniques": [
+                    "[+1 Culture] [in all cities]",
                 ]
             }
     ]
