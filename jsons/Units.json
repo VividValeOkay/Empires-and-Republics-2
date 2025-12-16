@@ -41,6 +41,8 @@
 		"strength": 13,
 		"cost": 50,
 		"requiredTech": "Standing Army",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Footman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
@@ -118,6 +120,15 @@
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units"],
 		"attackSound": "throw"
+	},
+	{
+		"name": "Footman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Standing Army",
+		"attackSound": "metalhit"
 	},
 			
 ]
