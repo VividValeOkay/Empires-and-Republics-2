@@ -111,4 +111,25 @@
 	"food": 1,
     "requiredTech": "Milling",
   },
+  {
+    "name": "Arena",
+    "cost": 80,
+	"happiness": 2,
+    "requiredTech": "Construction",
+  },
+  {
+    "name": "Aqueduct",
+    "cost": 80,
+	"happiness": 1,
+    "requiredTech": "Engineering",
+	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
+  },
+  {
+    "name": "Wall",
+    "cost": 100,
+	"cityStrength": 3,
+	"cityHealth": 35,
+    "requiredTech": "Engineering",
+	"uniques": ["Destroyed when the city is captured"],
+  },
 ]
