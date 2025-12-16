@@ -41,7 +41,7 @@
 		"strength": 13,
 		"cost": 50,
 		"requiredTech": "Standing Army",
-		"obsoleteTech": "Civil Service",
+		"obsoleteTech": "Military Tactics",
 		"upgradesTo": "Footman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
@@ -127,7 +127,7 @@
 		"movement": 2,
 		"strength": 16,
 		"cost": 90,
-		"requiredTech": "Standing Army",
+		"requiredTech": "Military Tactics",
 		"attackSound": "metalhit"
 	},
 			
