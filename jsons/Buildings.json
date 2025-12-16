@@ -156,6 +156,6 @@
     "name": "Chemist",
     "cost": 120,
     "food": 1,
-    "requiredTech": "Theology",
+    "requiredTech": "Brewing & Alchemy",
   },
 ]
