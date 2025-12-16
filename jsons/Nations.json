@@ -316,4 +316,52 @@
 		"innerColor": [19, 89, 21],
 		"cities": ["Lisbon"]
 },
+{
+		"name": "Australia",
+		"adjective": ["Australian"],
+		"cityStateType": "Production",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [19, 89, 21],
+		"cities": ["Canberra"]
+},
+{
+		"name": "Morroco",
+		"adjective": ["Morrocan"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [27, 122, 33],
+		"cities": ["Fez"]
+},
+{
+		"name": "Nepal",
+		"adjective": ["Nepali"],
+		"cityStateType": "Faith",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [108, 228, 235],
+		"cities": ["Kathmandu"]
+},
+{
+		"name": "Majapahit",
+		"adjective": ["Majapahitian"],
+		"cityStateType": "Food",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [247, 100, 87],
+		"cities": ["Majapahit"]
+},
 ]
