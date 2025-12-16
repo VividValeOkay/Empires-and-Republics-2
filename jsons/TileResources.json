@@ -207,7 +207,7 @@
 	{
 		"name": "Spices",
 		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
+		"terrainsCanBeFoundOn": ["Jungle","Forest"],
 		"gold": 2,
 		"improvement": "Plantation",
 		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
