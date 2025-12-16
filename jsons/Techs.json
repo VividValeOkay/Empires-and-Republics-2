@@ -146,7 +146,7 @@
 		"techs": [
 			{
 				"name": "Siege Craft",
-				"row": 7,
+				"row": 6,
 				"prerequisites": ["Standing Army","Mounted Warfare","Craftsmanship"],
 				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
 			},
@@ -159,9 +159,22 @@
 			},
 			{
 				"name": "Milling",
-				"row": 9,
+				"row": 7,
 				"prerequisites": ["Craftsmanship","Trading"],
 				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+			},
+			{
+				"name": "Construction",
+				"row": 8,
+				"prerequisites": ["Craftsmanship"],
+				"quote": "'Create with the heart; build with the mind.' - Criss Jami"
+			},
+			{
+				"name": "Engineering",
+				"row": 9,
+				"prerequisites": ["Craftsmanship"],
+				"uniques": ["Roads connect tiles across rivers"],
+				"quote": "'Normal people, believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.' - Scott Adams"
 			},
 		]
 	}
