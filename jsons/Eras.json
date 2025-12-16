@@ -31,4 +31,19 @@
         "citySound": "cityClassical",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "High Middle Ages",
+        "researchAgreementCost": 220,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Spearman",
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library"],
+        "baseUnitBuyCost": 250,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
 ]
