@@ -138,4 +138,24 @@
     "gold": 2,
     "requiredTech": "Currency",
   },
+  {
+    "name": "Garden",
+    "cost": 100,
+    "happiness": 2,
+    "requiredTech": "Theology",
+	"uniques": ["Must be next to [Fresh water]"]
+  },
+  {
+    "name": "Worship House",
+    "cost": 120,
+    "faith": 1,
+    "requiredTech": "Theology",
+	"uniques": ["[+1 Faith] per [4] population [in this city]"]
+  },
+  {
+    "name": "Chemist",
+    "cost": 120,
+    "food": 1,
+    "requiredTech": "Theology",
+  },
 ]
