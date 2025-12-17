@@ -232,5 +232,20 @@
 				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
 			},
 		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "High Middle Ages",
+		"techCost": 120,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "TEMP",
+				"row": 2,
+				"prerequisites": ["Theology"],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+			},
+		]
 	}
 ]
