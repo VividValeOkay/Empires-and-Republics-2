@@ -207,6 +207,29 @@
 	    "uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[+15]% Strength <when fighting in [Friendly] tiles>","[+1 Faith, +1 Production] from [Tundra] tiles [in all cities]"]
 		"cities": ["Saint Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara"],
 },
+{
+		"name": "The Mongols",
+		"leaderName": "Genghis Khan",
+		"startBias": ["Plains"],
+
+		"declaringWar": "Did you try to stand in the way of my great army? Soon you will bow before my great troops.",
+		"attacked": "There is no need to speak many words. Today, the Mongols will ensure your defeat!",
+		"defeated": "You deceived the Mongols, and now in my eyes you're as disgusting as snot from the nose and vomit from the mouth.",
+        "denounced": "Foolish and feeble! How have you not been conquered yet?"
+		"introduction": "I am Genghis Khan. Before me vast Mongolian steppe, behind me a mighty and great horse army.",
+
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"declaringFriendship": "Accept Mongolia's friendship! I want to see the world tremble when they learn we are united.",
+
+		"outerColor": [120, 0, 1],
+		"innerColor": [255, 129, 18],
+		"uniqueName": "Mongol Horde",
+	    "uniques": ["[+40]% Strength <vs [City-States]>","[+1] Movement <for [Mounted] units>","[+50]% Yield from pillaging tiles"]
+		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan","Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg"],
+},
 	// City-States
 {
 		"name": "Belgium",
