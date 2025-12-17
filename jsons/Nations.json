@@ -155,7 +155,7 @@
 		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "You have earned my respect. Shall we declare our friendship?",
 
-		"outerColor": [19, 14, 161],
+		"outerColor": [1, 42, 108],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Founding Fathers",
 	    "uniques": ["[-15]% Culture cost of adopting new Policies","[+25]% Strength <when fighting in [your] tiles>","[-20]% unhappiness from the number of cities"]
