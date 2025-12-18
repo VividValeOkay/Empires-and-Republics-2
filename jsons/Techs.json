@@ -246,6 +246,18 @@
 				"prerequisites": ["Theology"],
 				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
 			},
+			{
+				"name": "Banking",
+				"row": 4,
+				"prerequisites": ["Guilds"],
+				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
+			},
+			{
+				"name": "Metallurgy",
+				"row": 8,
+				"prerequisites": ["Military Tactics","War Summons"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			},
 		]
 	}
 ]
