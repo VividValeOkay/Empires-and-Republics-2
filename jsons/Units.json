@@ -87,6 +87,8 @@
 		"strength": 16,
 		"cost": 90,
 		"requiredTech": "Mounted Warfare",
+		"obsoleteTech": "Chivalry",
+		"upgradesTo": "Knight",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
@@ -141,6 +143,16 @@
 		"range": 2,
 		"cost": 80,
 		"requiredTech": "War Summons",
+	},
+	{
+		"name": "Knight",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 19,
+		"cost": 140,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
 	},
 			
 ]
