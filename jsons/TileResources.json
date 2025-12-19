@@ -149,7 +149,7 @@
 		"unique": ["Generated on every [18] tiles <in [Desert] tiles>"]
 	}
     {
-        "name": "Gold ore",
+        "name": "Gold Ore",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle"],
 		"gold": 2,
