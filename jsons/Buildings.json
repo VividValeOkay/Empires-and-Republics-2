@@ -75,7 +75,7 @@
     "cost": 100,
     "production": 1,
     "requiredTech": "Craftsmanship",
-    "uniques": ["Provides [1] [Basket] <before the [High Middle Ages]>","Provides [1] [Tunics] <during the [High Middle Ages]>","Only available <with [Sheep]> <in this city>","Limited to [2] per Civilization"],
+    "uniques": ["Provides [1] [Basket]","Only available <with [Sheep]> <in this city>","Limited to [2] per Civilization"],
   },
   {
     "name": "Docks",
