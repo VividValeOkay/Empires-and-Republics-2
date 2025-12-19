@@ -46,4 +46,19 @@
         "citySound": "cityMedieval",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "Age of Discovery",
+        "researchAgreementCost": 280,
+        "startingSettlerCount": 2, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Footman",
+        "settlerPopulation": 4,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library"],
+        "baseUnitBuyCost": 250,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
 ]
