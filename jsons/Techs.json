@@ -277,5 +277,20 @@
 				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
 			},
 		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "Age of Discovery",
+		"techCost": 180,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
+		    {
+				"name": "Cartography",
+				"row": 1,
+				"prerequisites": ["TEMP"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+			},
+		]
 	}
 ]
