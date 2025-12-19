@@ -259,6 +259,12 @@
 				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
 			},
 			{
+				"name": "Haberdashery",
+				"row": 5,
+				"prerequisites": ["Guilds"],
+				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+			},
+			{
 				"name": "Metallurgy",
 				"row": 8,
 				"prerequisites": ["Military Tactics","War Summons"],
