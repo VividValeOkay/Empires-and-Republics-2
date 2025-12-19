@@ -230,4 +230,15 @@
 					"Special placement during map generation",
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
 	},
+	// Civ-made resources
+	{
+		"name": "Basket",
+		"resourceType": "Luxury",
+		"food": 3,
+	},
+	{
+		"name": "Tunics",
+		"resourceType": "Luxury",
+		"gold": 3,
+	},
 ]
