@@ -90,7 +90,7 @@
 		"innerColor": [146, 221, 10],
 		"uniqueName": "Righteousness of the Faith",
 	    "uniques": ["[+2 Gold] from each Trade Route","[+50]% [Faith] from every [Faith]","Empire enters a [10]-turn Golden Age <upon founding a Religion>"]
-		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat","Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"],
+		"cities": ["Cairo","Damascus","Mecca","Medina","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat","Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"],
 },
 {
 		"name": "The Greeks",
