@@ -71,6 +71,13 @@
     "uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
   },
   {
+    "name": "Weaver",
+    "cost": 100,
+    "production": 1,
+    "requiredTech": "Craftsmanship",
+    "uniques": ["Provides [1] [Basket] <before the [High Middle Ages]>","Provides [1] [Tunics] <during the [High Middle Ages]>","Only available <with [Sheep]> <in this city>","Limited to [2] per Civilization"],
+  },
+  {
     "name": "Docks",
     "cost": 120,
     "gold": 2,
@@ -165,5 +172,11 @@
 	"happiness": 1,
 	"uniques": ["Destroyed when the city is captured"],
     "requiredTech": "Architecture",
+  },
+  {
+    "name": "Bank",
+    "cost": 140,
+    "gold": 3,
+    "requiredTech": "Banking",
   },
 ]
