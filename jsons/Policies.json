@@ -92,5 +92,98 @@
             }
     ]
   },
+  {
+    "name": "Monarchy",
+    "era": "High Middle Ages",
+    "uniques": ["[+2 Culture] from all [Walls] buildings","Get the leader title of [Monarch [leaderName]]","Only available <before adopting [Maritime Republic]>","Only available <before adopting [Theocracy]>"]
+    "policies": [
+      {
+       "name": "Feudal Contract",
+       "uniques": ["[+15]% Strength <for [post-[Ancient era]] units>"],
+       "row": 1,
+       "column": 1,
+      },
+      {
+       "name": "Serfdom",
+       "uniques": ["Free [Worker] appears"],
+       "row": 1,
+       "column": 3,
+      },
+      {
+       "name": "God King",
+       "uniques": ["Gain [80] [Faith]"],
+       "row": 1,
+       "column": 5,
+      },
+            {
+                "name": "Monarchy Complete",
+                "uniques": [
+                    "[+1 Culture] [in all cities]",
+                ]
+            }
+    ]
+  },
+  {
+    "name": "Maritime Republic",
+    "era": "High Middle Ages",
+    "uniques": ["[+1 Gold] <in [in all cities] cities> <in [Coastal] tiles>","Get the leader title of [Doge [leaderName]]","Only available <before adopting [Monarchy]>","Only available <before adopting [Theocracy]>"]
+    "policies": [
+      {
+       "name": "Local Markets",
+       "uniques": ["[+1 Gold, +1 Production] [in all cities]"],
+       "row": 1,
+       "column": 1,
+      },
+      {
+       "name": "Meritocracy",
+       "uniques": ["[+1 Culture] [in all cities] <if [Culture] is constructed>"],
+       "row": 1,
+       "column": 3,
+      },
+      {
+       "name": "Maritime Trade",
+       "uniques": ["[+25]% Yield from every [Fishing Boats]"],
+       "row": 1,
+       "column": 5,
+      },
+            {
+                "name": "Maritime Republic Complete",
+                "uniques": [
+                    "[+1 Gold] [in all cities]",
+                ]
+            }
+    ]
+  },
+  {
+    "name": "Theocracy",
+    "era": "High Middle Ages",
+    "uniques": ["[+1 Faith] [in all cities connected to capital]","Only available <before adopting [Monarchy]>","Only available <before adopting [Maritime Republic]>"]
+    "policies": [
+      {
+       "name": "Religious Taxes",
+       "uniques": ["When spreading religion to a city, gain [3] times the amount of followers of other religions as [Gold]"],
+       "row": 1,
+       "column": 1,
+      },
+      {
+       "name": "Devout Population",
+       "uniques": ["[+1 Faith] from all [Faith] buildings"],
+       "row": 1,
+       "column": 3,
+      },
+      {
+       "name": "Praying Ceremony",
+       "uniques": ["Gain [10]-[30] [Faith] <every [10] turns> <in [in capital] cities>"],
+       "row": 1,
+       "column": 5,
+      },
+      {
+                "name": "Theocracy Complete",
+                "uniques": [
+                    "[+1 Faith] [in all cities]",
+                ]
+            }
+    ]
+  },
 
 ]
