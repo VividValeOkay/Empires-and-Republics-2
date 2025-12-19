@@ -135,7 +135,17 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Longbowman",
+		"name": "Pikeman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Military Tactics",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Crossbowman",
 		"unitType": "Archery",
 		"movement": 2,
 		"strength": 10,
