@@ -230,6 +230,29 @@
 	    "uniques": ["[+40]% Strength <vs [City-States]>","[+1] Movement <for [Mounted] units>","[+50]% Yield from pillaging tiles"]
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan","Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg"],
 },
+{
+		"name": "The Spanish",
+		"leaderName": "Isabella I",
+		"startBias": ["Avoid [Tundra]","Coast"],
+
+		"declaringWar": "God will probably forgive you. But I will not. Prepare for war.",
+		"attacked": "Repugnant spawn of the devil! You will pay!",
+		"defeated": "Very well. This is undoubtedly the will of God. And I must accept it.",
+        "denounced": "There is no greater sin than to defy the anointed servant of the Lord. You will pay dearly for this."
+		"introduction": "God blesses those who deserve it. I am Isabella of Spain.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "And so?",
+
+		"tradeRequest": "I hope this deal will receive your blessing.",
+		"declaringFriendship": "I believe you have seen the wisdom in the light of the Lord. Let us share in friendship his blessing.",
+
+		"outerColor": [120, 0, 1],
+		"innerColor": [229, 117, 116],
+		"uniqueName": "Seven Cities of Gold",
+	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]","[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Age of Discovery]>"]
+		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona","Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida"],
+},
 	// City-States
 {
 		"name": "Belgium",
@@ -386,5 +409,17 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 100, 87],
 		"cities": ["Majapahit"]
+},
+{
+		"name": "Pakistan",
+		"adjective": ["Pakistani"],
+		"cityStateType": "Religion",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We follow you now...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [26, 120, 36],
+		"cities": ["Islamabad"]
 },
 ]
