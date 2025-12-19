@@ -78,7 +78,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "War Summons",
-		"upgradesTo": "Longbowman",
+		"upgradesTo": "Crossbowman",
 	},
 	{
 		"name": "Horseman",
