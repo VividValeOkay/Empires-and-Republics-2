@@ -118,6 +118,16 @@
 		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Niter",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"production": 1,
+		"improvement": "Mine",
+		"uniques": ["Guaranteed with Strategic Balance resource option",
+			        "Generated on every [14] tiles <in [{Featureless} {Grassland}] tiles>",
+			        "Generated on every [19] tiles <in [{Featureless} {Plains}] tiles>"],
+	},
 // Luxery resources
 	{
 		"name": "Ivory",
