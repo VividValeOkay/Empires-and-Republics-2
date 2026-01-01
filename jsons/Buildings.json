@@ -40,7 +40,7 @@
 	"name": "Granary",
 	"cost": 70
 	"food": 2,
-	"requiredTech": "Grain Storage"
+	"requiredTech": "Early Neolithic Growth"
   },
   {
     "name": "Fermenting Pit",
