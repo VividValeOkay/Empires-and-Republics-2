@@ -253,6 +253,29 @@
 	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]","[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Age of Discovery]>"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona","Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida"],
 },
+{
+		"name": "The French",
+		"leaderName": "Napoleon",
+		"startBias": ["Grassland"],
+
+		"declaringWar": "I have made all the calculations; fate will do the rest.",
+		"attacked": "The bullet that is to kill me has not yet melted.",
+		"defeated": "Exile. I will write my epics. The effort will cut the course of time.",
+        "denounced": "The glory and might of France will not be tarnished by such obvious lies."
+		"introduction": "I am Napoleon, here on this earth to determine the fate of the world.",
+
+		"neutralHello": "Vive la France!",
+		"hateHello": "It's you.",
+
+		"tradeRequest": "France offers you this exceptional proposition.",
+		"declaringFriendship": "I extend to you the royal hand in friendship. Do you accept it?",
+
+		"outerColor": [1, 42, 108],
+		"innerColor": [234, 225, 157],
+		"uniqueName": "Grand Tour",
+	    "uniques": ["[+2 Culture] [in all cities]","[+20]% Strength <for [Land] units> <when at war>"]
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble","Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes"],
+},
 	// City-States
 {
 		"name": "Belgium",
