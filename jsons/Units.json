@@ -140,7 +140,7 @@
 		"movement": 2,
 		"strength": 17,
 		"cost": 100,
-		"requiredTech": "Military Tactics",
+		"requiredTech": "Metallurgy",
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 	},
