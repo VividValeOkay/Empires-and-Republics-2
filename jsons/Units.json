@@ -65,7 +65,7 @@
 		"rangedStrength": 8,
 		"range": 1,
 		"cost": 40,
-		"obsoleteTech": "Archery",
+		"obsoleteTech": "Early Neolithic Military",
 		"upgradesTo": "Archer",
 	},
 	{
