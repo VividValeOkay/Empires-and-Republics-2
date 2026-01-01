@@ -175,49 +175,46 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Siege Craft",
-				"row": 6,
-				"prerequisites": ["Standing Army","Mounted Warfare","Craftsmanship"],
-				"quote": "'Do not wait to strike til the iron is hot, but make it hot by striking.' - William Butler Yeats"
-			},
-			{
-				"name": "Navigation",
+				"name": "Late Ancient Science",
 				"row": 1,
-				"prerequisites": ["Sailing"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
-				"uniques": ["Enables embarkation for land units"],
+				"prerequisites": ["Early Ancient Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Mathematics",
-				"row": 2,
-				"prerequisites": ["Philosophy","Sailing"],
-				"quote": "'Without mathematics, there's nothing you can do. Everything around you is mathematics. Everything around you is numbers.' - Shakuntala Devi"
-				"uniques": ["[+1] Movement <for [Water] units>"],
+				"name": "Late Ancient Riches",
+				"row": 3,
+				"prerequisites": ["Early Ancient Riches"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Currency",
-				"row": 4,
-				"prerequisites": ["Trading"],
-				"quote": "'Wealth consists not in having great possessions, but in having few wants.' - Epictetus"
+				"name": "Late Ancient Production",
+				"row": 5,
+				"prerequisites": ["Early Ancient Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Milling",
+				"name": "Late Ancient Growth",
 				"row": 7,
-				"prerequisites": ["Craftsmanship","Trading"],
-				"quote": "'Instrumental or mechanical science is the noblest and, above all others, the most useful.' - Leonardo da Vinci"
+				"prerequisites": ["Early Ancient Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Construction",
-				"row": 8,
-				"prerequisites": ["Craftsmanship"],
-				"quote": "'Create with the heart; build with the mind.' - Criss Jami"
-			},
-			{
-				"name": "Engineering",
+				"name": "Late Ancient Culture",
 				"row": 9,
-				"prerequisites": ["Craftsmanship"],
-				"uniques": ["Roads connect tiles across rivers"],
-				"quote": "'Normal people, believe that if it ain’t broke, don’t fix it. Engineers believe that if it ain’t broke, it doesn’t have enough features yet.' - Scott Adams"
+				"prerequisites": ["Early Ancient Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Ancient Military",
+				"row": 11,
+				"prerequisites": ["Early Ancient Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Ancient Faith",
+				"row": 13,
+				"prerequisites": ["Early Ancient Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
@@ -229,36 +226,46 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Theology",
-				"row": 2,
-				"prerequisites": ["Navigation","Mathematics"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"name": "Early Middle Ages Science",
+				"row": 1,
+				"prerequisites": ["Late Ancient Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Guilds",
-				"row": 4,
-				"prerequisites": ["Currency"],
-				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
-				"uniques": ["Enables conversion of city production to [Gold]"]
+				"name": "Early Middle Ages Riches",
+				"row": 3,
+				"prerequisites": ["Late Ancient Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Brewing & Alchemy",
-				"row": 6,
-				"prerequisites": ["Milling"],
-				"quote": "'We are all apprentices in a craft where no one ever becomes a master.' - Ernest Hemingway"
+				"name": "Early Middle Ages Production",
+				"row": 5,
+				"prerequisites": ["Late Ancient Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Military Tactics",
+				"name": "Early Middle Ages Growth",
 				"row": 7,
-				"prerequisites": ["Siege Craft"],
-				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
-				"uniques": ["Enables Defensive Pacts"]
+				"prerequisites": ["Late Ancient Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "War Summons",
-				"row": 8,
-				"prerequisites": ["Siege Craft"],
-				"quote": "'Tactics mean doing what you can with what you have.' - Saul Alinsky"
+				"name": "Early Middle Ages Culture",
+				"row": 9,
+				"prerequisites": ["Late Ancient Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Middle Ages Military",
+				"row": 11,
+				"prerequisites": ["Late Ancient Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Middle Ages Faith",
+				"row": 13,
+				"prerequisites": ["Late Ancient Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
@@ -270,40 +277,46 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "TEMP",
-				"row": 2,
-				"prerequisites": ["Theology"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"name": "Late Middle Ages Science",
+				"row": 1,
+				"prerequisites": ["Early Middle Ages Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Architecture",
+				"name": "Late Middle Ages Riches",
 				"row": 3,
-				"prerequisites": ["Theology","Guilds"],
-				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+				"prerequisites": ["Early Middle Ages Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Banking",
-				"row": 4,
-				"prerequisites": ["Guilds"],
-				"quote": "'Happiness: a good bank account, a good cook and a good digestion' - Jean Jacques Rousseau"
-			},
-			{
-				"name": "Haberdashery",
+				"name": "Late Middle Ages Production",
 				"row": 5,
-				"prerequisites": ["Guilds"],
-				"quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson"
+				"prerequisites": ["Early Middle Ages Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Metallurgy",
-				"row": 8,
-				"prerequisites": ["Military Tactics","War Summons"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+				"name": "Late Middle Ages Growth",
+				"row": 7,
+				"prerequisites": ["Early Middle Ages Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Chivalry",
+				"name": "Late Middle Ages Culture",
 				"row": 9,
-				"prerequisites": ["Military Tactics","War Summons"],
-				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+				"prerequisites": ["Early Middle Ages Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Middle Ages Military",
+				"row": 11,
+				"prerequisites": ["Early Middle Ages Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Middle Ages Faith",
+				"row": 13,
+				"prerequisites": ["Early Middle Ages Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
@@ -314,30 +327,47 @@
 		"buildingCost": 160,
 		"wonderCost": 100,
 		"techs": [
-		    {
-				"name": "Cartography",
+			{
+				"name": "Early Age of Discovery Science",
 				"row": 1,
-				"prerequisites": ["TEMP"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
-			},
-		    {
-				"name": "Gunpowder",
-				"row": 8,
-				"prerequisites": ["Metallurgy","Chivalry"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"prerequisites": ["Late Middle Ages Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Chartered Companies",
-				"row": 4,
-				"prerequisites": ["Banking"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
-				"uniques": ["[+1 Gold] [in all cities]"]
+				"name": "Early Age of Discovery Riches",
+				"row": 3,
+				"prerequisites": ["Late Middle Ages Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Education",
-				"row": 2,
-				"prerequisites": ["TEMP"],
-				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"name": "Early Age of Discovery Production",
+				"row": 5,
+				"prerequisites": ["Late Middle Ages Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Discovery Growth",
+				"row": 7,
+				"prerequisites": ["Late Middle Ages Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Discovery Culture",
+				"row": 9,
+				"prerequisites": ["Late Middle Ages Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Discovery Military",
+				"row": 11,
+				"prerequisites": ["Late Middle Ages Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Age of Discovery Faith",
+				"row": 13,
+				"prerequisites": ["Late Middle Ages Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	}
