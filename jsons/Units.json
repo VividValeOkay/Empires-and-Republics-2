@@ -135,6 +135,16 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Man-at-Arms",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 100,
+		"requiredTech": "Military Tactics",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Pikeman",
 		"unitType": "Sword",
 		"movement": 2,
