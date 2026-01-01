@@ -291,6 +291,24 @@
 				"prerequisites": ["TEMP"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
 			},
+		    {
+				"name": "Gunpowder",
+				"row": 8,
+				"prerequisites": ["Metallurgy","Chivalry"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+			},
+			{
+				"name": "Chartered Companies",
+				"row": 4,
+				"prerequisites": ["Banking"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+			},
+			{
+				"name": "Education",
+				"row": 2,
+				"prerequisites": ["TEMP"],
+				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+			},
 		]
 	}
 ]
