@@ -7,11 +7,11 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Agriculture",
+				"name": "The Beginning",
 				"row": 6,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
-			}
+			},
 		]
 	},
 	{
@@ -22,35 +22,47 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Fishing",
+				"name": "Early Neolithic Science",
 				"row": 1,
 				"prerequisites": ["Agriculture"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-			}
-			{
-				"name": "Pottery",
-				"row": 2,
-				"prerequisites": ["Agriculture"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
-				"name": "Animal Husbandry",
+				"name": "Early Neolithic Riches",
+				"row": 3,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Neolithic Production",
 				"row": 5,
 				"prerequisites": ["Agriculture"],
-				"quote": "'I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.' - Winston S. Churchill",
-			}
-			{
-				"name": "Archery",
-				"row": 7,
-				"prerequisites": ["Agriculture"],
-				"quote": "'The haft of the arrow has been feathered with one of the eagle's own plumes, we often give our enemies the means of our own destruction' - Aesop"
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Mining",
+				"name": "Early Neolithic Growth",
+				"row": 7,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Neolithic Culture",
 				"row": 9,
 				"prerequisites": ["Agriculture"],
-				"quote": "'Who deserves more credit than the wife of a coal miner?' - Merle Travis",
-			}
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Neolithic Military",
+				"row": 11,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Neolithic Faith",
+				"row": 13,
+				"prerequisites": ["Agriculture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
 		]
 	},
 	{
@@ -61,35 +73,46 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Calendar",
-				"row": 2,
-				"prerequisites": ["Pottery","Fishing"],
-				"quote": "'So teach us to number our days, so that we may apply our hearts unto wisdom.' - Bible Psalms 90:12"
+				"name": "Late Neolithic Science",
+				"row": 1,
+				"prerequisites": ["Early Neolithic Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Writing",
+				"name": "Late Neolithic Riches",
 				"row": 3,
-				"prerequisites": ["Pottery"],
-				"quote": "'He who destroys a good book kills reason itself.' - John Milton"
-				"uniques": ["Enables Open Borders agreements"]
+				"prerequisites": ["Early Neolithic Riches"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Grain Storage",
+				"name": "Late Neolithic Production",
 				"row": 5,
-				"prerequisites": ["Pottery"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+				"prerequisites": ["Early Neolithic Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "The Wheel",
+				"name": "Late Neolithic Growth",
 				"row": 7,
-				"prerequisites": ["Animal Husbandry","Pottery","Archery"],
-				"quote": "'Sometimes the wheel turns slowly, but it turns.' - Lorne Michaels"
+				"prerequisites": ["Early Neolithic Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Masonry & Carpentry",
+				"name": "Late Neolithic Culture",
 				"row": 9,
-				"prerequisites": ["Mining"],
-				"quote": "'How happy are those whose walls already rise!' - Virgil"
+				"prerequisites": ["Early Neolithic Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Neolithic Military",
+				"row": 11,
+				"prerequisites": ["Early Neolithic Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Neolithic Faith",
+				"row": 13,
+				"prerequisites": ["Early Neolithic Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
@@ -101,40 +124,46 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Sailing",
+				"name": "Early Ancient Science",
 				"row": 1,
-				"prerequisites": ["Calendar"],
-				"quote": "'He who commands the sea has command of everything.' - Themistocles"
+				"prerequisites": ["Late Neolithic Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Philosophy",
+				"name": "Early Ancient Riches",
 				"row": 3,
-				"prerequisites": ["Writing"],
-				"quote": "'There is only one good, knowledge, and one evil, ignorance.' - Socrates"
+				"prerequisites": ["Late Neolithic Riches"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Trading",
-				"row": 4,
-				"prerequisites": ["Grain Storage","Writing"],
-				"quote": "Textbook."
-			},
-			{
-				"name": "Mounted Warfare",
+				"name": "Early Ancient Production",
 				"row": 5,
-				"prerequisites": ["The Wheel"],
-				"quote": "'A Horse! A Horse! My kingdom for a horse!' - Shakespeare (Richard III)"
+				"prerequisites": ["Late Neolithic Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Standing Army",
+				"name": "Early Ancient Growth",
 				"row": 7,
-				"prerequisites": ["Masonry & Carpentry","The Wheel"],
-				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
+				"prerequisites": ["Late Neolithic Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Craftsmanship",
+				"name": "Early Ancient Culture",
 				"row": 9,
-				"prerequisites": ["Masonry & Carpentry"],
-				"quote": "'Three things are to be looked to in a building: that it stands on the right spot; that it be securely founded; that it be successfully executed.' - Johann Wolfgang von Goethe"
+				"prerequisites": ["Late Neolithic Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Ancient Military",
+				"row": 11,
+				"prerequisites": ["Late Neolithic Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Ancient Faith",
+				"row": 13,
+				"prerequisites": ["Late Neolithic Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
 	},
