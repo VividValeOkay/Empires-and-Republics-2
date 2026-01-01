@@ -302,6 +302,7 @@
 				"row": 4,
 				"prerequisites": ["Banking"],
 				"quote": "'He made an instrument to know if the moon shine at full or no.' - Samuel Butler"
+				"uniques": ["[+1 Gold] [in all cities]"]
 			},
 			{
 				"name": "Education",
