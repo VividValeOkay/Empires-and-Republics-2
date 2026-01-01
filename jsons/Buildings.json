@@ -14,14 +14,14 @@
 		"name": "Shrine",
 		"faith": 1,
 		"cost": 40,
-		"requiredTech": "Pottery",
+		"requiredTech": "Early Neolithic Faith",
 		"uniques": ["Only available <when religion is enabled>"]
   },
   {
     "name": "Well",
     "cost": 50,
     "food": 2,
-    "requiredTech": "Pottery",
+    "requiredTech": "Early Neolithic Growth",
     "uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
   },
   {
@@ -34,7 +34,7 @@
     "name": "Furnace",
     "cost": 60,
     "production": 2,
-    "requiredTech": "Pottery", // Bronze workd=ing later
+    "requiredTech": "Early Neolithic Production", // Bronze workd=ing later NAHHHHH
   },
   {
 	"name": "Granary",
@@ -46,7 +46,7 @@
     "name": "Fermenting Pit",
     "cost": 40,
     "happiness": 2,
-    "requiredTech": "Grain Storage",
+    "requiredTech": "Late Neolithic Growth",
     "requiredResource": "Grapes",
   },
   {
@@ -55,53 +55,53 @@
 	"science": 1,
 	"happiness": 1,
 	"uniques": ["[+1 Science] per [4] population [in this city]"],
-	"requiredTech": "Writing"
+	"requiredTech": "Late Neolithic Science"
   },
   {
     "name": "Tannery",
     "cost": 90,
     "production": 1,
-    "requiredTech": "Craftsmanship",
+    "requiredTech": "Early Ancient Production",
   },
   {
     "name": "Logging Camp",
     "cost": 100,
     "production": 2,
-    "requiredTech": "Craftsmanship",
+    "requiredTech": "Early Ancient Production",
     "uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
   },
   {
     "name": "Weaver",
     "cost": 100,
     "production": 1,
-    "requiredTech": "Craftsmanship",
+    "requiredTech": "Early Ancient Production",
     "uniques": ["Provides [1] [Basket]","Only available <with [Sheep]> <in this city>","Limited to [2] per Civilization"],
   },
   {
     "name": "Docks",
     "cost": 120,
     "gold": 2,
-    "requiredTech": "Sailing",
+    "requiredTech": "Early Ancient Riches",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
   {
     "name": "School",
     "cost": 100,
     "science": 2,
-    "requiredTech": "Philosophy",
+    "requiredTech": "Early Ancient Science",
   },
   {
 	"name": "Temple",
 	"faith": 2,
 	"cost": 120,
-	"requiredTech": "Philosophy",
+	"requiredTech": "Early Ancient Faith",
 	"uniques": ["Only available <when religion is enabled>"]
   },
   {
     "name": "Market",
     "cost": 100,
     "gold": 2,
-    "requiredTech": "Trading",
+    "requiredTech": "Early Ancient Riches",
 	"uniques": ["[+2 Gold] <if [Docks] is constructed>"],
   },
   {
@@ -109,26 +109,26 @@
     "cost": 90,
     "production": 1,
 	"food": 1,
-    "requiredTech": "Milling",
+    "requiredTech": "Late Ancient Growth",
   },
   {
     "name": "Bakery",
     "cost": 80,
 	"production": 1,
 	"food": 1,
-    "requiredTech": "Milling",
+    "requiredTech": "Late Ancient Growth",
   },
   {
     "name": "Arena",
     "cost": 80,
 	"happiness": 2,
-    "requiredTech": "Construction",
+    "requiredTech": "Late Ancient Growth",
   },
   {
     "name": "Aqueduct",
     "cost": 80,
 	"happiness": 1,
-    "requiredTech": "Engineering",
+    "requiredTech": "Late Ancient Growth",
 	"uniques": ["[40]% Food is carried over after population increases [in this city]"],
   },
   {
@@ -136,34 +136,34 @@
     "cost": 100,
 	"cityStrength": 3,
 	"cityHealth": 35,
-    "requiredTech": "Engineering",
+    "requiredTech": "Late Ancient Military",
 	"uniques": ["Destroyed when the city is captured"],
   },
   {
     "name": "Mint",
     "cost": 85,
     "gold": 2,
-    "requiredTech": "Currency",
+    "requiredTech": "Late Ancient Riches",
   },
   {
     "name": "Garden",
     "cost": 100,
     "happiness": 2,
-    "requiredTech": "Theology",
+    "requiredTech": "Early Middle Ages Growth",
 	"uniques": ["Must be next to [Fresh water]"]
   },
   {
     "name": "Worship House",
     "cost": 120,
     "faith": 1,
-    "requiredTech": "Theology",
+    "requiredTech": "Early Middle Ages Faith",
 	"uniques": ["[+1 Faith] per [4] population [in this city]"]
   },
   {
     "name": "Chemist",
     "cost": 120,
     "food": 1,
-    "requiredTech": "Brewing & Alchemy",
+    "requiredTech": "Early Middle Ages Growth",
   },
   {
     "name": "Amphitheater",
@@ -171,25 +171,25 @@
     "culture": 3,
 	"happiness": 1,
 	"uniques": ["Destroyed when the city is captured"],
-    "requiredTech": "Architecture",
+    "requiredTech": "Late Middle Ages Culture",
   },
   {
     "name": "Bank",
     "cost": 140,
     "gold": 3,
-    "requiredTech": "Banking",
+    "requiredTech": "Late Middle Ages Riches",
   },
   {
     "name": "Tailor",
     "cost": 140,
     "production": 1,
-    "requiredTech": "Haberdashery",
+    "requiredTech": "Late Middle Ages Production",
     "uniques": ["Provides [1] [Tunics]","Consumes [1] [Basket]","Limited to [2] per Civilization"],
   },
   {
     "name": "University",
     "cost": 170,
     "science": 2,
-    "requiredTech": "Education",
+    "requiredTech": "Early Age of Discovery Science",
   },
 ]
