@@ -120,7 +120,8 @@
 	},
 	{
 		"name": "Niter",
-		"resourceType": "Luxury",
+		"resourceType": "Strategic",
+		"revealedBy": "Gunpowder",
 		"terrainsCanBeFoundOn": ["Grassland","Plains"],
 		"production": 1,
 		"improvement": "Mine",
