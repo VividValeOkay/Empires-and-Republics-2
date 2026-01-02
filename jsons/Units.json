@@ -153,6 +153,8 @@
 		"strength": 15,
 		"cost": 90,
 		"requiredTech": "Early Middle Ages Military",
+		"obsoleteTech": "Early Age of Discovery Military",
+		"upgradesTo": "Halberdier",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
@@ -195,6 +197,16 @@
 		"requiredTech": "Early Age of Discovery Military",
 		"uniques": ["Can only be built <in cities with a [Docks]>","[+1] Sight"],
 		"attackSound": "cannon"
+	},
+	{
+		"name": "Halberdier",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 19,
+		"cost": 90,
+		"requiredTech": "Early Age of Discovery Military",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
