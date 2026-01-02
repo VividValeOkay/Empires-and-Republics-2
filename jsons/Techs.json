@@ -370,5 +370,56 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
-	}
+	},
+	{
+		"columnNumber": 8,
+		"era": "Age of Discovery",
+		"techCost": 180,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Late Age of Discovery Science",
+				"row": 1,
+				"prerequisites": ["Early Age of Discovery Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Riches",
+				"row": 3,
+				"prerequisites": ["Early Age of Discovery Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Production",
+				"row": 5,
+				"prerequisites": ["Early Age of Discovery Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Growth",
+				"row": 7,
+				"prerequisites": ["Early Age of Discovery Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Culture",
+				"row": 9,
+				"prerequisites": ["Early Age of Discovery Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Military",
+				"row": 11,
+				"prerequisites": ["Early Age of Discovery Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Age of Discovery Faith",
+				"row": 13,
+				"prerequisites": ["Early Age of Discovery Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
 ]
