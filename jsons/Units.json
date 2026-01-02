@@ -53,6 +53,8 @@
 		"strength": 15,
 		"cost": 70,
 		"requiredTech": "Early Ancient Military",
+		"obsoleteTech": "Late Middle Ages Military",
+		"upgradesTo": "Man-at-Arms",
 		"requiredResource": "Iron",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -173,6 +175,16 @@
 		"requiredTech": "Late Middle Ages Military",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>"],
+	},
+	{
+		"name": "Musketman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 125,
+		"requiredTech": "Early Age of Discovery Military",
+		"requiredResource": "Niter",
+		"attackSound": "shot"
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
