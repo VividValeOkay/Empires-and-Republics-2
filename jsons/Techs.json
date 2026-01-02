@@ -430,7 +430,7 @@
 		"wonderCost": 100,
 		"techs": [
 			{
-				"name": "Early Imperialism Science",
+				"name": "Early Age of Imperialism Science",
 				"row": 1,
 				"prerequisites": ["Late Age of Discovery Science"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
