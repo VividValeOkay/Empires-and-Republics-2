@@ -49,7 +49,7 @@
 		"improvement": "Plantation",
 		"uniques": ["Generated on every [24] tiles <in [Grassland] tiles>",
 					"Generated on every [27] tiles <in [Plains] tiles>",
-		            "Generated on every [19] tiles <in [{Jungle} {Plains}] tiles>",],
+		            "Generated on every [19] tiles <in [{Jungle} {Plains}] tiles>"],
 	},
 	{
 		"name": "Watermelon",
