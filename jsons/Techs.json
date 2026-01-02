@@ -386,6 +386,7 @@
 				"name": "Early Age of Discovery Military",
 				"row": 11,
 				"prerequisites": ["Late Middle Ages Military"],
+				"uniques": ["[+1] Movement <for [Embarked] units>","Enables [Embarked] units to enter ocean tiles"]
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
