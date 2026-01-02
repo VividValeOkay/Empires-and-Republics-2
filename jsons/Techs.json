@@ -393,6 +393,7 @@
 				"name": "Early Age of Discovery Faith",
 				"row": 13,
 				"prerequisites": ["Late Middle Ages Faith"],
+				"uniques": ["[+1 Faith] from all [Worship House] buildings"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
