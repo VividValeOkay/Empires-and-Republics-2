@@ -76,6 +76,13 @@
 				"name": "Late Neolithic Science",
 				"row": 1,
 				"prerequisites": ["Early Neolithic Science"],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Open Borders",
+				"row": 2,
+				"prerequisites": ["Early Neolithic Science"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -181,6 +188,13 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Embarkation",
+				"row": 2,
+				"prerequisites": ["Early Ancient Science"],
+				"uniques": ["Enables embarkation for land units"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Late Ancient Riches",
 				"row": 3,
 				"prerequisites": ["Early Ancient Riches"],
@@ -190,6 +204,7 @@
 				"name": "Late Ancient Production",
 				"row": 5,
 				"prerequisites": ["Early Ancient Production"],
+				"uniques": ["Roads connect tiles across rivers"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -211,6 +226,13 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
+				"name": "Diplomacy",
+				"row": 12,
+				"prerequisites": ["Early Ancient Military"],
+				"uniques": ["Enables establishment of embassies","Enables Defensive Pacts"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
 				"name": "Late Ancient Faith",
 				"row": 13,
 				"prerequisites": ["Early Ancient Faith"],
@@ -229,12 +251,14 @@
 				"name": "Early Middle Ages Science",
 				"row": 1,
 				"prerequisites": ["Late Ancient Science"],
+				"uniques": ["Enables conversion of city production to [Science]"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Early Middle Ages Riches",
 				"row": 3,
 				"prerequisites": ["Late Ancient Science"],
+				"uniques": ["Enables conversion of city production to [Gold]"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -280,6 +304,7 @@
 				"name": "Late Middle Ages Science",
 				"row": 1,
 				"prerequisites": ["Early Middle Ages Science"],
+				"uniques": ["Enables Research agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
