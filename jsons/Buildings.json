@@ -199,4 +199,12 @@
     "requiredTech": "Late Age of Discovery Riches",
 	"uniques": ["[+1 Gold] from [Luxury resource] tiles [in all cities]"],
   },
+  {
+    "name": "Shipyard",
+    "cost": 180,
+    "gold": 2,
+	"production": 1,
+    "requiredTech": "Late Age of Discovery Riches",
+    "uniques": ["Can only be built <in [Coastal] tiles>"],
+  },
 ]
