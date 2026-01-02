@@ -186,6 +186,16 @@
 		"requiredResource": "Niter",
 		"attackSound": "shot"
 	},
+	{
+		"name": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 18,
+		"cost": 160,
+		"requiredTech": "Early Age of Discovery Military",
+		"uniques": ["Can only be built <in cities with a [Docks]>","[+1] Sight"],
+		"attackSound": "cannon"
+	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
 		"name": "Great General",
