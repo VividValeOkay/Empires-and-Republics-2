@@ -207,4 +207,11 @@
     "requiredTech": "Late Age of Discovery Riches",
     "uniques": ["Can only be built <in [Coastal] tiles>"],
   },
+  {
+    "name": "Playhouse",
+    "cost": 160,
+    "culture": 3,
+	"happiness": 1,
+    "requiredTech": "Late Age of Discovery Culture",
+  },
 ]
