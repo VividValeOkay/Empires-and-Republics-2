@@ -42,6 +42,16 @@
 					"Generated on every [20] tiles <in [{Fresh Water} {Desert}] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
 	},
 	{
+		"name": "Coffee Beans",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Plains","Grassland","Jungle"],
+		"food": 1,
+		"improvement": "Plantation",
+		"uniques": ["Generated on every [24] tiles <in [Grassland] tiles>",
+					"Generated on every [27] tiles <in [Plains] tiles>",
+		            "Generated on every [19] tiles <in [{Jungle} {Plains}] tiles>",],
+	},
+	{
 		"name": "Watermelon",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Plains","Grassland","Desert"], // Desert only if fresh water
