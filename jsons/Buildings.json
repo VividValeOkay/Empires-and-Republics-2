@@ -214,4 +214,10 @@
 	"happiness": 1,
     "requiredTech": "Late Age of Discovery Culture",
   },
+  {
+    "name": "Forge",
+    "cost": 170,
+    "production": 2,
+    "requiredTech": "Late Age of Discovery Production",
+  },
 ]
