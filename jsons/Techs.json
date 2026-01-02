@@ -76,13 +76,13 @@
 				"name": "Late Neolithic Science",
 				"row": 1,
 				"prerequisites": ["Early Neolithic Science"],
-				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Open Borders",
 				"row": 2,
 				"prerequisites": ["Early Neolithic Science"],
+				"uniques": ["Enables Open Borders agreements"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
