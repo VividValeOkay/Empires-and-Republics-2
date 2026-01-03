@@ -171,6 +171,8 @@
 		"range": 2,
 		"cost": 80,
 		"requiredTech": "Early Middle Ages Military",
+		"obsoleteTech": "Late Age of Imperialism Military",
+		"upgradesTo": "Fieldgun",
 	},
 	{
 		"name": "Knight",
@@ -234,6 +236,16 @@
 		"cost": 140,
 		"requiredTech": "Early Age of Imperialism Military",
 		"attackSound": "shot"
+	},
+	{
+		"name": "Fieldgun",
+		"unitType": "Ranged Gunpowder",
+		"movement": 2,
+		"strength": 16,
+		"rangedStrength": 20,
+		"range": 2,
+		"cost": 140,
+		"requiredTech": "Late Age of Imperialism Military",
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
