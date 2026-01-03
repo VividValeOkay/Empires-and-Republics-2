@@ -190,6 +190,7 @@
     "cost": 140,
     "production": 1,
     "requiredTech": "Late Middle Ages Production",
+    "requiredResource": "Basket",
     "uniques": ["Provides [1] [Tunics]","Consumes [1] [Basket]","Limited to [2] per Civilization"],
   },
   {
@@ -232,5 +233,13 @@
     "culture": 3,
 	"happiness": 1,
     "requiredTech": "Early Age of Imperialism Culture",
+  },
+  {
+    "name": "Coffee House",
+    "cost": 190,
+    "food": 2,
+	"happiness": 2,
+    "requiredTech": "Early Age of Imperialism Culture",
+    "requiredResource": "Coffee Beans",
   },
 ]
