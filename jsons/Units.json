@@ -112,6 +112,8 @@
 		"rangedStrength": 14,
 		"cost": 85,
 		"requiredTech": "Late Ancient Military",
+		"obsoleteTech": "Late Age of Discovery Military",
+		"upgradesTo": "Cannon",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
 			        "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
 		"attackSound": "throw"
@@ -207,6 +209,18 @@
 		"requiredTech": "Early Age of Discovery Military",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Cannon",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 18,
+		"cost": 140,
+		"requiredTech": "Late Age of Discovery Military",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
+			        "Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+		"attackSound": "cannon"
 	},
 	// Great People (Yes, i did just copy this from the base game...)
 	{
