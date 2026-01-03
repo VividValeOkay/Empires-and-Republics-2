@@ -76,4 +76,19 @@
         "citySound": "cityMedieval",
         "iconRGB": [255, 87, 35]
     },
+    {
+        "name": "Machine Age",
+        "researchAgreementCost": 480,
+        "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Pikeman",
+        "settlerPopulation": 6,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 250,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
 ]
