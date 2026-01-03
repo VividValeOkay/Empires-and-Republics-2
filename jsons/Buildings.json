@@ -226,4 +226,11 @@
     "production": 2,
     "requiredTech": "Late Age of Discovery Production",
   },
+  {
+    "name": "Museum",
+    "cost": 190,
+    "culture": 3,
+	"happiness": 1,
+    "requiredTech": "Early Age of Imperialism Culture",
+  },
 ]
