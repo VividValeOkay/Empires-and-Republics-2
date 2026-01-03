@@ -82,7 +82,7 @@
         "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
         "startingWorkerCount": 1,
         "startingMilitaryUnitCount": 3,
-        "startingMilitaryUnit": "Pikeman",
+        "startingMilitaryUnit": "Line Infantry",
         "settlerPopulation": 6,
         "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
         "baseUnitBuyCost": 250,
