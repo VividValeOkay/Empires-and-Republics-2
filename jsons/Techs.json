@@ -551,4 +551,106 @@
 			},
 		]
 	},
+	{
+		"columnNumber": 11,
+		"era": "Machine Age",
+		"techCost": 260,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Early Machine Age Science",
+				"row": 1,
+				"prerequisites": ["Late Age of Imperialism Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Riches",
+				"row": 3,
+				"prerequisites": ["Late Age of Imperialism Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Production",
+				"row": 5,
+				"prerequisites": ["Late Age of Imperialism Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Growth",
+				"row": 7,
+				"prerequisites": ["Late Age of Imperialism Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Culture",
+				"row": 9,
+				"prerequisites": ["Late Age of Imperialism Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Military",
+				"row": 11,
+				"prerequisites": ["Late Age of Imperialism Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Early Machine Age Faith",
+				"row": 13,
+				"prerequisites": ["Late Age of Imperialism Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 12,
+		"era": "Machine Age",
+		"techCost": 260,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Late Machine Age Science",
+				"row": 1,
+				"prerequisites": ["Early Machine Age Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Riches",
+				"row": 3,
+				"prerequisites": ["Early Machine Age Science"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Production",
+				"row": 5,
+				"prerequisites": ["Early Machine Age Production"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Growth",
+				"row": 7,
+				"prerequisites": ["Early Machine Age Growth"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Culture",
+				"row": 9,
+				"prerequisites": ["Early Machine Age Culture"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Military",
+				"row": 11,
+				"prerequisites": ["Early Machine Age Military"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Late Machine Age Faith",
+				"row": 13,
+				"prerequisites": ["Early Machine Age Faith"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
 ]
