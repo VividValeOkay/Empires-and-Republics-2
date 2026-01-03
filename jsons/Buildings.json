@@ -18,6 +18,12 @@
 		"uniques": ["Only available <when religion is enabled>"]
   },
   {
+		"name": "Stone Circle",
+		"culture": 1,
+		"cost": 40,
+		"requiredTech": "Early Neolithic Culture",
+  },
+  {
     "name": "Well",
     "cost": 50,
     "food": 2,
