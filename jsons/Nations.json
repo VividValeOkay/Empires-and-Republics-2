@@ -276,6 +276,29 @@
 	    "uniques": ["[+2 Culture] [in all cities]","[+20]% Strength <for [Land] units> <when at war>"]
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble","Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes"],
 },
+{
+		"name": "The Turkish",
+		"leaderName": "Atatürk",
+		"startBias": ["Desert","Plains"],
+
+		"declaringWar": "Your continued insolence and failure to recognize any preeminence leads us to war.",
+		"attacked": "Oh, good. The world shall witness the incontestable might of my armies and the glory of The Republic of Turkey.",
+		"defeated": "You ruined it! You ruined it! Istanbul becomes the city of Iram, remembered only by poets suffering from melancholy.",
+        "denounced": "You are the liege of the viper, the jackal, the vulture, the hyena, the rat—all things hateful and spiteful claim you as their ruler."
+		"introduction": "Merhaba! I am Mustafa Kemal Atatürk and I am the president of the newley founded Republic of Turkey.",
+
+		"neutralHello": "Merhaba.",
+		"hateHello": "Tüm bu hakaretler ve küfürler bunun için mi? Hayal kırıklığına uğradım...",
+
+		"tradeRequest": "The Republic of Turkey offers you this exceptional proposition.",
+		"declaringFriendship": "As your behavior towards me is always proper, I give you leave to publicly claim my friendship.",
+
+		"outerColor": [202, 20, 21],
+		"innerColor": [249, 249, 249],
+		"uniqueName": "Atatürk's Legacy",
+	    "uniques": ["[+3 Food] per [3] population [in all cities]","[+25]% Production when constructing [Siege] units [in all cities]"]
+		"cities": ["Ankara","Istanbul","Izmir","Bursa","Adana","Konya","Gaziantep","Kayseri","Samsun","Eskişehir","Sivas","Trabzon","Diyarbakır","Malatya","Erzurum"],
+},
 	// City-States
 {
 		"name": "Belgium",
