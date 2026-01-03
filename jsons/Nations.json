@@ -296,7 +296,7 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Atatürk's Legacy",
-	    "uniques": ["[+3 Food] per [3] population [in all cities]","[+25]% Production when constructing [Siege] units [in all cities]"]
+	    "uniques": ["[+1 Food] per [3] population [in all cities]","[+25]% Production when constructing [Siege] units [in all cities]"]
 		"cities": ["Ankara","Istanbul","Izmir","Bursa","Adana","Konya","Gaziantep","Kayseri","Samsun","Eskişehir","Sivas","Trabzon","Diyarbakır","Malatya","Erzurum"],
 },
 	// City-States
