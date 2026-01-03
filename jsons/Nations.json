@@ -9,6 +9,7 @@
 		"name": "The English",
 		"leaderName": "Victoria",
 		"startBias": ["Coast"],
+        "favoredReligion": "Christianity",
 
 		"declaringWar": "As our protests are in vain, we hereby declare war.",
 		"attacked": "War? We are not amused...",
@@ -32,6 +33,7 @@
 		"name": "The Romans",
 		"leaderName": "Julius Caesar",
 		"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
+        "favoredReligion": "Nicene Christianity",
 
 		"declaringWar": "The die is cast.",
 		"attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
@@ -55,6 +57,7 @@
 		"name": "The Chinese",
 		"leaderName": "Yongle",
 		"startBias": ["Grassland"],
+        "favoredReligion": "Confucianism",
 
 		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way..!",
 		"attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
@@ -78,6 +81,7 @@
 		"name": "The Arabs",
 		"leaderName": "Saladin",
 		"startBias": ["Desert"],
+        "favoredReligion": "Sunni Islam",
 
 		"declaringWar": "I promise none of us will taste peace, until you concede...",
 		"attacked": "It's shameful that we turn to violence, for it is not the behavior of kings to kill each other!",
@@ -101,6 +105,7 @@
 		"name": "The Greeks",
 		"leaderName": "Pericles",
 		"startBias": ["Coast"],
+        "favoredReligion": "Hellenism",
 
 		"declaringWar": "This is for the greater good. You will understand... in time.",
 		"attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
@@ -124,6 +129,7 @@
 		"name": "The Indians",
 		"leaderName": "Chandragupta",
 		"startBias": ["Plains"],
+        "favoredReligion": "Buddhism",
 
 		"declaringWar": "Your territory could be much improved under Indian rule. Best I see it through!",
 		"attacked": "India does not fear war. The most you can do is slow our rightful advance.",
@@ -147,6 +153,7 @@
 		"name": "The Americans",
 		"leaderName": "George Washington",
 		"startBias": ["Grassland"],
+        "favoredReligion": "Christianity",
 
 		"declaringWar": "I wanted to avoid this, you know... But your idea of peace left me no choice!",
 		"attacked": "If I must choose between righteousness and peace, I choose righteousness.",
@@ -170,6 +177,7 @@
 		"name": "The Germans",
 		"leaderName": "Frederick Barbarossa",
 		"startBias": ["Avoid [Desert]"],
+        "favoredReligion": "Catholicism",
 
 		"declaringWar": "You were well warned, but still you seek conflict. Now you will learn your lesson, as many other men have before you!",
 		"attacked": "How do you want to defeat me, when I destroyed so many enemies?",
@@ -193,6 +201,7 @@
 		"name": "The Russians",
 		"leaderName": "Peter I",
 		"startBias": ["Tundra"],
+        "favoredReligion": "Eastern Orthodoxy",
 
 		"declaringWar": "I hereby proclaim you an enemy to Russia, our allies, and God, may he have mercy on your soul.",
 		"attacked": "Your war is futile. It's impossible to defeat Russia! Whoever will come to us with a sword, from a sword will perish!",
@@ -216,6 +225,7 @@
 		"name": "The Mongols",
 		"leaderName": "Genghis Khan",
 		"startBias": ["Plains"],
+        "favoredReligion": "Buddhism",
 
 		"declaringWar": "Did you try to stand in the way of my great army? Soon you will bow before my great troops.",
 		"attacked": "There is no need to speak many words. Today, the Mongols will ensure your defeat!",
@@ -239,6 +249,7 @@
 		"name": "The Spanish",
 		"leaderName": "Isabella I",
 		"startBias": ["Avoid [Tundra]","Coast"],
+        "favoredReligion": "Catholicism",
 
 		"declaringWar": "God will probably forgive you. But I will not. Prepare for war.",
 		"attacked": "Repugnant spawn of the devil! You will pay!",
@@ -262,6 +273,7 @@
 		"name": "The French",
 		"leaderName": "Napoleon",
 		"startBias": ["Grassland"],
+        "favoredReligion": "Catholicism",
 
 		"declaringWar": "I have made all the calculations; fate will do the rest.",
 		"attacked": "The bullet that is to kill me has not yet melted.",
@@ -285,6 +297,7 @@
 		"name": "The Turkish",
 		"leaderName": "Atatürk",
 		"startBias": ["Desert","Plains"],
+        "favoredReligion": "Sunni Islam",
 
 		"declaringWar": "Your continued insolence and failure to recognize any preeminence leads us to war.",
 		"attacked": "Oh, good. The world shall witness the incontestable might of my armies and the glory of The Republic of Turkey.",
