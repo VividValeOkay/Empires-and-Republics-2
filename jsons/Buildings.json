@@ -222,6 +222,12 @@
     "requiredTech": "Early Age of Discovery Culture",
   },
   {
+    "name": "Plaza",
+    "cost": 165,
+	"happiness": 3,
+    "requiredTech": "Late Age of Discovery Culture",
+  },
+  {
     "name": "Forge",
     "cost": 170,
     "production": 2,
@@ -249,5 +255,13 @@
 	"requiredBuilding": "University",
 	"uniques": ["Must be next to [Mountain]"],
 	"requiredTech": "Late Age of Discovery Science"
+  },
+  {
+    "name": "Cement Plant",
+    "cost": 200,
+    "production": 2,
+    "requiredTech": "Early Age of Imperialism Production",
+    "requiredResource": "Iron",
+    "uniques": ["Provides [1] [Cement]","Limited to [2] per Civilization"],
   },
 ]
