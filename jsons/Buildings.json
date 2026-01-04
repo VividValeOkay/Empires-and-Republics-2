@@ -219,7 +219,7 @@
     "cost": 160,
     "culture": 3,
 	"happiness": 1,
-    "requiredTech": "Late Age of Discovery Culture",
+    "requiredTech": "Early Age of Discovery Culture",
   },
   {
     "name": "Forge",
@@ -241,5 +241,13 @@
 	"happiness": 2,
     "requiredTech": "Early Age of Imperialism Growth",
     "requiredResource": "Coffee Beans",
+  },
+  {
+	"name": "Observatory",
+	"cost": 195,
+    "science": 4,
+	"requiredBuilding": "University",
+	"uniques": ["Must be next to [Mountain]"],
+	"requiredTech": "Late Age of Discovery Science"
   },
 ]
