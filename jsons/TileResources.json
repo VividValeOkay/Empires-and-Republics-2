@@ -255,11 +255,16 @@
 	{
 		"name": "Basket",
 		"resourceType": "Luxury",
-		"food": 3,
+		"food": 1,
 	},
 	{
 		"name": "Tunics",
 		"resourceType": "Luxury",
 		"gold": 3,
+	},
+	{
+		"name": "Cement",
+		"resourceType": "Luxury",
+		"production": 3,
 	},
 ]
