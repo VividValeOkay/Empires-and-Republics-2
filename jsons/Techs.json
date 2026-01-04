@@ -429,7 +429,7 @@
 				"row": 7,
 				"prerequisites": ["Early Age of Discovery Growth"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
-				"uniques": ["[-15]% Unhappiness from [populationFilter] [in all cities connected to capital]"],
+				"uniques": ["[-15]% Unhappiness from [Population] [in all cities connected to capital]"],
 			},
 			{
 				"name": "Late Age of Discovery Culture",
