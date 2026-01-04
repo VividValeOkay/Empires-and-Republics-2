@@ -375,6 +375,7 @@
 				"row": 7,
 				"prerequisites": ["Late Middle Ages Growth"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+				"uniques": ["[-10]% Culture cost of natural border growth [in all cities]","[+1 Food] [in all cities connected to capital]"],
 			},
 			{
 				"name": "Early Age of Discovery Culture",
